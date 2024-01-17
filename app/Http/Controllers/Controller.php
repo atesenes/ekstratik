@@ -15,3 +15,4 @@ class Controller extends BaseController
         return view("index",$data);
     }
 }
+
